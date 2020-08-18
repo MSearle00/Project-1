@@ -4,13 +4,13 @@ body{
   margin:0;
 }
 
-.parallax {
+.parallax #navigation {
   background-image: url("/images/parallax.jpg");
-  min-height: 500px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 400px;
 }
 
 h1 {
@@ -139,4 +139,13 @@ ol{
   flex-direction: column;
   justify-content: center;
   text-align:center;
+}
+
+.parallax .returnNavigation {
+  background-image: url("/images/parallax.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 20px;
 }
