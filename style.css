@@ -147,7 +147,7 @@ ol{
 }
 
 .parallax .returnNavigation {
-  background-image: url("./images/parallax.jpg");
+  background-image: url("./images/parallax-background.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
