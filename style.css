@@ -10,7 +10,7 @@ body{
 }
 
 .parallax #navigation {
-  background-image: url("/images/parallax-background-copy.jpg");
+  background-image: url("https://msearle00.github.io/Project-1/images/parallax-background.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
