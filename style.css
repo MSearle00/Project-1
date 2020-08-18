@@ -152,5 +152,9 @@ ol{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 20px;
+  min-height: 100px;
+}
+
+.returnNavigation{
+  padding-top: 35px;;
 }
